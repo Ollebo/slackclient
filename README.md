@@ -1,4 +1,4 @@
-# telegramSend
+# Slack Client 
 
 
 Small python script for sending messages to telegram both message and to include a image.
@@ -48,7 +48,7 @@ docker exec -it "ID OF CONTANER" sh
 4. Start the service
 
 ```
-python3 start.py
+python3 run.py
 ```
 
 
